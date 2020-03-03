@@ -7,9 +7,6 @@ dependencies:
   name: exposecontroller
   repository: http://chartmuseum.jenkins-x.io
   version: 2.3.118
-- name: jx-canary
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.10
 - name: jx-canary2
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.14
