@@ -10,6 +10,9 @@ dependencies:
 - name: istio-test
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.4
+- name: ph-auth-service-serverless
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.11
 - name: ph-group-management-service
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.2
