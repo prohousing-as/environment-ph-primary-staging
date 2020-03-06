@@ -16,3 +16,6 @@ dependencies:
 - name: ph-istio-deployment
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.3
+- name: ph-user-service-serverless
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.25
