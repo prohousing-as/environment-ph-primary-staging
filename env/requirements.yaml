@@ -13,6 +13,9 @@ dependencies:
 - name: ph-group-management-service
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.2
+- name: ph-invoice-service
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.9
 - name: ph-istio-deployment
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.5
