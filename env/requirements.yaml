@@ -27,4 +27,4 @@ dependencies:
   version: 0.0.10
 - name: ph-user-service-serverless
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.88
+  version: 0.0.89
