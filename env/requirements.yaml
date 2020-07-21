@@ -21,7 +21,7 @@ dependencies:
   version: 0.0.5
 - name: ph-m3-service
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.28
+  version: 0.0.29
 - name: ph-payments-service-serverless
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.11
