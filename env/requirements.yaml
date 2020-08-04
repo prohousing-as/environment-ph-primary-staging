@@ -10,6 +10,9 @@ dependencies:
 - name: ph-auth-service-serverless
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.16
+- name: ph-client-service
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: ph-esignature-service
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.5
