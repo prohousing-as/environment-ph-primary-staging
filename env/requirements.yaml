@@ -39,7 +39,7 @@ dependencies:
   version: 0.0.11
 - name: ph-supplier-service
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.8
+  version: 0.0.9
 - name: ph-user-service-serverless
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.128
