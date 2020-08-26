@@ -27,7 +27,7 @@ dependencies:
   version: 0.0.16
 - name: ph-istio-deployment
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.5
+  version: 0.0.6
 - name: ph-m3-service
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.85
