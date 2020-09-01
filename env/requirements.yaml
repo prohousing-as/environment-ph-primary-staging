@@ -12,7 +12,7 @@ dependencies:
   version: 0.0.16
 - name: ph-client-service
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.27
+  version: 0.0.29
 - name: ph-company-service
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
@@ -27,22 +27,19 @@ dependencies:
   version: 0.0.16
 - name: ph-istio-deployment
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.6
+  version: 0.0.12
 - name: ph-m3-service
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.85
+  version: 0.0.98
 - name: ph-member-service
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.13
 - name: ph-payments-service-serverless
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.11
-- name: ph-pre-prod-istio
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.8
 - name: ph-supplier-service
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.34
+  version: 0.0.47
 - name: ph-user-service-serverless
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.129
