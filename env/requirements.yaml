@@ -39,7 +39,7 @@ dependencies:
   version: 0.0.11
 - name: ph-pre-prod-istio
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.12
+  version: 0.0.13
 - name: ph-supplier-service
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.47
