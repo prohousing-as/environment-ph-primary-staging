@@ -33,7 +33,7 @@ dependencies:
   version: 0.0.98
 - name: ph-member-service
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.14
+  version: 0.0.15
 - name: ph-payments-service-serverless
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.11
