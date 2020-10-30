@@ -24,7 +24,7 @@ dependencies:
   version: 0.0.6
 - name: ph-housing-service
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.6
+  version: 0.0.8
 - name: ph-invoice-service
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.20
