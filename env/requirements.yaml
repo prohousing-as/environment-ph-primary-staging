@@ -33,7 +33,7 @@ dependencies:
   version: 0.0.10
 - name: ph-m3-service
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.103
+  version: 0.0.104
 - name: ph-member-service
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.40
