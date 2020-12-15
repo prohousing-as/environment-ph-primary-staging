@@ -15,7 +15,7 @@ dependencies:
   version: 0.0.44
 - name: ph-company-service
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.6
+  version: 0.0.10
 - name: ph-esignature-service
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.26
